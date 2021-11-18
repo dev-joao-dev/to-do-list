@@ -1,10 +1,10 @@
 # Lista de Tarefas
 
-<a href="">
+<a href="https://dev-joao-dev.github.io/to-do-list/">
 <img src="./ASSETS/image-to-do-list.png" alt="form image">
 </a>
 
-> Projeto de lista de tarefas, feito com JavaScript, CSS, HTML, meu primeiro contato com programação.
+> Projeto de lista de tarefas, feito com JavaScript, CSS, HTML, meu primeiro contato com programação para acessar clique na imagem ou acesse por aqui: https://dev-joao-dev.github.io/to-do-list/.
 
 ### Experiência que Consegui
 
